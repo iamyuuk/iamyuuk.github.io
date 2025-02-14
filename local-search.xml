@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>化学选修一(基础概念速览)</title>
+    <link href="/2025/02/14/%E5%8C%96%E5%AD%A6%E9%80%89%E4%BF%AE%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E9%80%9F%E8%A7%88/"/>
+    <url>/2025/02/14/%E5%8C%96%E5%AD%A6%E9%80%89%E4%BF%AE%E4%B8%80-%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E9%80%9F%E8%A7%88/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第一章-化学反应与能量"><a href="#第一章-化学反应与能量" class="headerlink" title="第一章 化学反应与能量"></a><strong>第一章 化学反应与能量</strong></h1><h2 id="1-1-化学反应的热效应"><a href="#1-1-化学反应的热效应" class="headerlink" title="1.1 化学反应的热效应"></a><strong>1.1 化学反应的热效应</strong></h2><ul><li><strong>焓变（ΔH）</strong> ：恒压条件下的热效应，ΔH &#x3D; H(产物) - H(反应物)<ul><li>放热反应：ΔH &lt; 0（如燃烧反应）</li><li>吸热反应：ΔH &gt; 0（如Ba(OH)₂·8H₂O与NH₄Cl反应）</li></ul></li><li><strong>热化学方程式</strong>：需注明物质状态和ΔH值（如：C(s) + O₂(g) → CO₂(g) ΔH &#x3D; -393.5 kJ&#x2F;mol）</li><li><strong>中和热测定</strong>：强酸与强碱反应生成1 mol H₂O的ΔH≈-57.3 kJ&#x2F;mol，需用隔热装置减少热量散失。</li></ul><h4 id="1-2-反应热的计算"><a href="#1-2-反应热的计算" class="headerlink" title="1.2 反应热的计算"></a><strong>1.2 反应热的计算</strong></h4><ul><li><strong>盖斯定律</strong>：反应热只与始态和终态有关，与途径无关。<ul><li>应用：通过已知反应方程式叠加计算目标反应的ΔH。</li></ul></li></ul><h1 id="第二章-化学反应速率与化学平衡"><a href="#第二章-化学反应速率与化学平衡" class="headerlink" title="第二章 化学反应速率与化学平衡"></a><strong>第二章 化学反应速率与化学平衡</strong></h1><h2 id="2-1-化学反应速率"><a href="#2-1-化学反应速率" class="headerlink" title="2.1 化学反应速率"></a><strong>2.1 化学反应速率</strong></h2><ul><li><strong>计算式</strong>：v &#x3D; Δc &#x2F; Δt（单位：mol&#x2F;(L·s)）</li><li><strong>影响因素</strong>：<ul><li>浓度↑ → 速率↑（气体压强增大同理）；</li><li>温度↑ → 速率↑（活化分子比例增加）；</li><li>催化剂 → 降低活化能，加快速率。</li></ul></li></ul><h2 id="2-2-化学平衡"><a href="#2-2-化学平衡" class="headerlink" title="2.2 化学平衡"></a><strong>2.2 化学平衡</strong></h2><ul><li><strong>化学平衡状态特征</strong>：v(正) &#x3D; v(逆)，各组分浓度不再变化。</li><li><strong>平衡常数（K）</strong> ：仅与温度有关，表达式由反应式书写形式决定。<ul><li>如：aA + bB ⇌ cC + dD，K &#x3D; [C]^c[D]^d &#x2F; [A]^a[B]^b。</li></ul></li><li><strong>勒沙特列原理</strong>：改变条件（浓度、压强、温度），平衡向减弱改变的方向移动。<ul><li>催化剂对平衡无影响，仅缩短达到平衡的时间。</li></ul></li></ul><h1 id="第三章-水溶液中的离子平衡"><a href="#第三章-水溶液中的离子平衡" class="headerlink" title="第三章 水溶液中的离子平衡"></a><strong>第三章 水溶液中的离子平衡</strong></h1><h2 id="3-1-弱电解质的电离"><a href="#3-1-弱电解质的电离" class="headerlink" title="3.1 弱电解质的电离"></a><strong>3.1 弱电解质的电离</strong></h2><ul><li><strong>电离平衡</strong>：弱酸&#x2F;弱碱只会&lt;u&gt;部分电离&lt;&#x2F;u&gt;（如CH₃COOH ⇌ H⁺ + CH₃COO⁻）。</li><li>**&lt;u&gt;同浓度时&lt;&#x2F;u&gt;**<strong>导电性</strong>：强电解质 &gt; 弱电解质。</li></ul><h2 id="3-2-水的电离和溶液pH"><a href="#3-2-水的电离和溶液pH" class="headerlink" title="3.2 水的电离和溶液pH"></a><strong>3.2 水的电离和溶液pH</strong></h2><ul><li><strong>水的离子积</strong>：Kw &#x3D; [H⁺][OH⁻] &#x3D; 1×10⁻¹⁴（25℃），温度升高Kw增大。</li><li><strong>pH计算</strong>：pH &#x3D; -lg[H⁺]，中性溶液pH&#x3D;7（25℃）。</li></ul><h2 id="3-3-盐类的水解"><a href="#3-3-盐类的水解" class="headerlink" title="3.3 盐类的水解"></a><strong>3.3 盐类的水解</strong></h2><ul><li><strong>规律</strong>：强酸弱碱盐显酸性（如NH₄Cl）；强碱弱酸盐显碱性（如Na₂CO₃）。</li><li><strong>应用</strong>：泡沫灭火器（Al³⁺与HCO₃⁻双水解）。</li></ul><h2 id="3-4-沉淀溶解平衡"><a href="#3-4-沉淀溶解平衡" class="headerlink" title="3.4 沉淀溶解平衡"></a><strong>3.4 沉淀溶解平衡</strong></h2><ul><li><strong>溶度积（Ksp）</strong> ：表征的是特定温度下，一个特定无机盐在水中的最大溶度。<ul><li>如AgCl(s) ⇌ Ag⁺ + Cl⁻，Ksp &#x3D; [Ag⁺][Cl⁻]。</li></ul></li><li><strong>沉淀转化</strong>：Ksp小的沉淀易转化为Ksp更小的沉淀。</li></ul><hr><h1 id="第四章-电化学基础"><a href="#第四章-电化学基础" class="headerlink" title="第四章 电化学基础"></a><strong>第四章 电化学基础</strong></h1><h4 id="4-1-原电池"><a href="#4-1-原电池" class="headerlink" title="4.1 原电池"></a><strong>4.1 原电池</strong></h4><ul><li><strong>构成条件</strong>：自发的氧化还原反应、两个电极、电解质溶液、闭合回路。</li><li><strong>负极反应</strong>：失电子（如Zn → Zn²⁺ + 2e⁻）；<br><strong>正极反应</strong>：得电子（如Cu²⁺ + 2e⁻ → Cu）。</li></ul><h2 id="4-2-电解池"><a href="#4-2-电解池" class="headerlink" title="4.2 电解池"></a><strong>4.2 电解池</strong></h2><ul><li><strong>阳极</strong>：发生氧化反应（若为活泼金属则金属优先失电子）；<br><strong>阴极</strong>：发生还原反应（溶液中的阳离子得电子）。</li><li><strong>应用</strong>：电镀（镀件作阴极）、氯碱工业（电解饱和食盐水）。</li></ul><h2 id="4-3-金属的腐蚀与防护"><a href="#4-3-金属的腐蚀与防护" class="headerlink" title="4.3 金属的腐蚀与防护"></a><strong>4.3 金属的腐蚀与防护</strong></h2><ul><li><strong>析氢腐蚀</strong>（酸性环境）与 <strong>吸氧腐蚀</strong>（中性&#x2F;弱碱性环境，主要形式）。</li><li><strong>防护方法</strong>：牺牲阳极法（如船体嵌锌块）、外加电流法、涂层保护。</li></ul><hr><h3 id="易错点提醒"><a href="#易错点提醒" class="headerlink" title="易错点提醒"></a><strong>易错点提醒</strong></h3><ol><li>ΔH单位为kJ&#x2F;mol，需注意正负号。</li><li>化学平衡移动方向≠反应方向（如加压后反应速率均增大）。</li><li>稀释弱酸时，电离度增大但[H⁺]减小。</li><li>原电池中电解质溶液需与电极自发反应。</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>高中笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>化学</tag>
+      
+      <tag>学习笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何开一个属于你自己的Minecraft服务器</title>
     <link href="/2025/01/21/%E5%A6%82%E4%BD%95%E5%BC%80%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     <url>/2025/01/21/%E5%A6%82%E4%BD%95%E5%BC%80%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
