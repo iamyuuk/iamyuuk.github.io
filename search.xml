@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hexo Pro - 一个强大的Hexo博客后台</title>
+      <link href="/2025/08/10/Hexo-Pro-%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E5%90%8E%E5%8F%B0/"/>
+      <url>/2025/08/10/Hexo-Pro-%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E5%90%8E%E5%8F%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h1><p><a href="https://github.com/wuzheng228/hexo-pro">Hexo Pro</a> 是专为 <a href="https://hexo.io/">Hexo</a> 静态博客框架打造的后台管理系统插件，旨在为博客作者和开发者提供更强大、更便捷的内容管理体验。</p><h2 id="项目愿景-定位："><a href="#项目愿景-定位：" class="headerlink" title="项目愿景&#x2F;定位："></a>项目愿景&#x2F;定位：</h2><p>Hexo Pro 为 Hexo 用户提供专业级内容管理体验，节省您 90% 的内容维护时间！</p><h2 id="核心优势"><a href="#核心优势" class="headerlink" title="核心优势"></a>核心优势</h2><ul><li>🚀 极致易用：界面友好，操作直观，零学习成本上手</li><li>🌗 多主题支持：一键切换暗黑&#x2F;明亮模式，适配不同使用场景</li><li>📱 移动端适配：响应式设计，手机、平板、PC 全面支持</li><li>🔒 安全可靠：支持多用户权限管理，数据安全有保障</li><li>⚡ 高效集成：与 Hexo 生态无缝对接，支持主流插件与主题</li><li>🖥️ 桌面端增强：支持多项目切换、智能认证、原生菜单、离线管理等桌面专属功能</li></ul><h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><p>你只能在本地使用Hexo Pro，具体使用方法有两种：作为Hexo插件使用、作为客户端使用。</p><h2 id="作为-Hexo-插件"><a href="#作为-Hexo-插件" class="headerlink" title="作为 Hexo 插件"></a>作为 Hexo 插件</h2><h3 id="前置要求"><a href="#前置要求" class="headerlink" title="前置要求"></a>前置要求</h3><p>Node.js 16+</p><p>Hexo 7.x</p><h3 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h3><figure class="highlight gauss"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs gauss"><span class="hljs-meta"># 1. 安装 Hexo Pro 插件</span><br>npm install --<span class="hljs-keyword">save</span> hexo-pro<br><span class="hljs-meta"># 2. 启动 Hexo 服务器</span><br>hexo server<br><span class="hljs-meta"># 3. 访问后台管理页面</span><br><span class="hljs-keyword">open</span> http:<span class="hljs-comment">//localhost:4000/pro</span><br></code></pre></td></tr></table></figure><h2 id="作为客户端"><a href="#作为客户端" class="headerlink" title="作为客户端"></a>作为客户端</h2><h3 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h3><ul><li>Windows 10+ &#x2F; macOS 10.14+ &#x2F; Ubuntu 18.04+</li><li>Node.js 16+</li></ul><h3 id="安装与启动"><a href="#安装与启动" class="headerlink" title="安装与启动"></a>安装与启动</h3><p>直接下载 <a href="https://github.com/wuzheng228/hexo-pro/releases">Release</a> 预构造版本</p><h4 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h4><ul><li>首次启动选择 Hexo 博客项目目录，自动启动 Hexo Pro 服务</li><li>支持多项目切换、自动认证、原生菜单、快捷键等桌面增强体验</li></ul><h1 id="个人看法"><a href="#个人看法" class="headerlink" title="个人看法"></a>个人看法</h1><p>看到这个项目之前的我编辑博客总是在vsc里编辑来编辑去，最后还得打开终端输入<code>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</code>打出一套连招，这个项目试了一下，很多东西都做了可视化，的确是方便了一些，但是还存在一些体验上的问题，大家可以弄来玩一玩，这个东西对于新手做博客还是十分友好的。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Github项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2025.7.6-2:30 随笔</title>
       <link href="/2025/07/06/%E9%9A%8F%E7%AC%941/"/>
       <url>/2025/07/06/%E9%9A%8F%E7%AC%941/</url>
